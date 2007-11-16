@@ -1,11 +1,11 @@
-#summary Gouda Project Status -- The current status of the Gouda project.
+#summary The current status of the Gouda project.
 
 == Introduction ==
 
 Gouda is a .NET wrapper for the Ghostscript API. 
 
 
-== Project Status ==
+== Current Status ==
 
 Gouda is not yet to a first release. 
 
