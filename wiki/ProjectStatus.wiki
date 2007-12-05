@@ -8,7 +8,7 @@ If you are interested in working on the code, feel free to get the latest versio
 
 == Outstanding Issues ==
 
-* Can't get the display callback struct to work out. Fails with error code -15 on init?
+  * Can't get the display callback struct to work out. Fails with error code -15 on init?
 
 
 
